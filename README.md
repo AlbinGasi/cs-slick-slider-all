@@ -30,7 +30,10 @@ responsive – default: large=4,medium=3,small=2,exsmall=1
 <br><br>
 <strong>EXAMPLES:</strong><br>
 ```
-[cs_slick_slider_all post_type="post" post_number="10" swipe="false" responsive="large=5,medium=3,small=1,exsmall=1" show_description="true"]<br>
+Example 1:
+[cs_slick_slider_all post_type="post" post_number="10" swipe="false" responsive="large=5,medium=3,small=1,exsmall=1" show_description="true"]
+
+Example 2:
 [cs_slick_slider_all post_type="project" taxonomy="project_cat" terms="10,14,16" post_number="10" swipe="false" ]
 ```
 
