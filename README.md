@@ -7,8 +7,9 @@ Build a beautiful slider. Custom post types are supported, everything is customi
 ```
 [cs_slick_slider_all post_type="post" post_number="10"]
 ```
-<br><br>
+<br>
 <strong>AVAILABLE ATTRIBUTES</strong>
+
 post_type – select post type
 <br>
 post_number – put the number of the articles you want to show
